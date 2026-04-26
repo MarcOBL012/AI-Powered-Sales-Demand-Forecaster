@@ -1,8 +1,6 @@
-# AI-Powered-Sales-Demand-Forecaster
+# 🔮 Demanda San Fernando: AI-Powered Sales Demand Forecaster (100% Offline) 🚀
 
-# 🔮 AI-Powered Sales Demand Forecaster🚀
-
-**AI-Powered Sales Demand Forecaster** is a desktop application designed for **demand forecasting** using artificial intelligence (predictive time-series models), operating in a **100% offline and secure** environment.
+**Demanda San Fernando** is a desktop application designed for **demand forecasting** using artificial intelligence (predictive time-series models), operating in a **100% offline and secure** environment.
 
 The tool processes historical sales data and automatically projects expected demand, optimizing logistics, procurement, and strategic planning processes.
 
@@ -15,7 +13,7 @@ The tool processes historical sales data and automatically projects expected dem
 *   💾 **Export to CSV/Excel:** Easily export the projection tables to cross-reference with other enterprise systems.
 *   🪟 **Modern Interface:** Built with `CustomTkinter` to provide a friendly, modern, and responsive dark/light design.
 
-
+---
 
 ## 🛠️ Technology Stack
 
@@ -26,7 +24,7 @@ The tool processes historical sales data and automatically projects expected dem
 *   **Matplotlib:** Chart generation embedded in the UI.
 *   **PyInstaller:** Compiling the project into a standalone executable (`.exe`).
 
-
+---
 
 ## 📦 Installation & Execution
 
@@ -53,7 +51,7 @@ python build.py
 ```
 *The final executable will be generated in the `dist/` folder.*
 
-
+---
 
 ## 📖 Quick Start
 
@@ -64,7 +62,7 @@ python build.py
 4. **Forecast:** Click "Correr proyección" (Run forecast). The AI will process the data and display the projected chart.
 5. **Export:** Save the results to an Excel file using the top button "Exportar a Excel (CSV)".
 
-
+---
 
 ## 📋 Project Structure
 
