@@ -1,6 +1,6 @@
-# 🔮 Demanda San Fernando: AI-Powered Sales Demand Forecaster (100% Offline) 🚀
+# 🔮AI-Powered Sales Demand Forecaster (100% Offline) 🚀
 
-**Demanda San Fernando** is a desktop application designed for **demand forecasting** using artificial intelligence (predictive time-series models), operating in a **100% offline and secure** environment.
+**AI-Powered Sales Demand Forecaster** is a desktop application designed for **demand forecasting** using artificial intelligence (predictive time-series models), operating in a **100% offline and secure** environment.
 
 The tool processes historical sales data and automatically projects expected demand, optimizing logistics, procurement, and strategic planning processes.
 
