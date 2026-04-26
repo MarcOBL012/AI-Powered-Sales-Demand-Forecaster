@@ -13,7 +13,7 @@ The tool processes historical sales data and automatically projects expected dem
 *   💾 **Export to CSV/Excel:** Easily export the projection tables to cross-reference with other enterprise systems.
 *   🪟 **Modern Interface:** Built with `CustomTkinter` to provide a friendly, modern, and responsive dark/light design.
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -24,7 +24,7 @@ The tool processes historical sales data and automatically projects expected dem
 *   **Matplotlib:** Chart generation embedded in the UI.
 *   **PyInstaller:** Compiling the project into a standalone executable (`.exe`).
 
----
+
 
 ## 📦 Installation & Execution
 
@@ -51,7 +51,7 @@ python build.py
 ```
 *The final executable will be generated in the `dist/` folder.*
 
----
+
 
 ## 📖 Quick Start
 
@@ -62,7 +62,7 @@ python build.py
 4. **Forecast:** Click "Correr proyección" (Run forecast). The AI will process the data and display the projected chart.
 5. **Export:** Save the results to an Excel file using the top button "Exportar a Excel (CSV)".
 
----
+
 
 ## 📋 Project Structure
 
